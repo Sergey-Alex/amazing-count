@@ -1,0 +1,26 @@
+.btn {
+    height: 60px;
+    width: 140px;
+    color: #0049b4;
+    font-size: 50px;
+    font-family: "Sitka Subheading";
+    padding-left: 10px;
+    border: 2px solid #8dbbfa;
+    border-radius: 10px;
+    background-color: #aec5ee;
+    margin-right:15px;
+}
+
+.btn_block {
+    height: 60px;
+    width: 140px;
+    color: #9c9c9d;
+    font-size: 50px;
+    font-family: "Sitka Subheading";
+    padding-left: 10px;
+    border: 2px solid #8dbbfa;
+    border-radius: 10px;
+    background-color: #aec5ee;
+    margin-right:15px;
+}
+
